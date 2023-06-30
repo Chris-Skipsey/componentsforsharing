@@ -23,17 +23,17 @@ function Home() {
         Card1Desc="How it looks like"
         />
         <Card1
-        heading="Passioniate in technology, motivated, and love gaming."
-        me="I enjoy learning about all types of new technology, as well as motivatied to do well. I also love gaming!"
+        heading="Test 1"
+        me="Card 1 test"
          />
          <Card1
-        heading="Passioniate in technology, motivated, and love gaming."
-        me="I enjoy learning about all types of new technology, as well as motivatied to do well. I also love gaming!"
+        heading="Test 2"
+        me="Card 2 test"
          />
 
 <Card1
-        heading="Passioniate in technology, motivated, and love gaming."
-        me="I enjoy learning about all types of new technology, as well as motivatied to do well. I also love gaming!"
+        heading="Test 3"
+        me="Card 3 test"
          />
          <Card2
          />
