@@ -1,0 +1,17 @@
+.Border2 {
+    background-color: grey;
+    padding: 1px;
+}
+
+.Card1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.Card1Desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
